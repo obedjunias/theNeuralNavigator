@@ -1,7 +1,7 @@
 ## 👋 Greetings, fellow wanderers of the digital cosmos! I'm theNeuralNavigator 🚀
 
 ### Welcome to my GitHub galaxy! 🌌
-> I'm a cosmic explorer on a thrilling mission to push the boundaries of Artificial Intelligence, Machine Learning, and Natural Language Processing.   
+I'm a cosmic explorer on a thrilling mission to push the boundaries of Artificial Intelligence, Machine Learning, and Natural Language Processing.   
 But wait, there's more! I sprinkle in a dash of Computational Neuroscience, Psychology, and Philosophy to truly venture into the depths of the unknown. Together, let's embark on this captivating journey of discovery!l universe together. 🌌
 
 ### 👀 A cosmic quest
